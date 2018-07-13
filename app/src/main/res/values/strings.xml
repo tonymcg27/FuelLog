@@ -4,4 +4,16 @@
 
     <string name="AppTitle">Fuel Log</string>
 
+    <string name="strDate">Date</string>
+    <string name="hintDate">Refill Date</string>
+
+    <string name="strKMS">Distance (kms)</string>
+    <string name="hintKMS">Distance on last tank</string>
+
+    <string name="strTotal">Total kms</string>
+    <string name="hintTotal">Total kms travelled</string>
+
+    <string name="strRate">Fuel Burn</string>
+    <string name="hintRate">Measured Fuel burn rate</string>
+
 </resources>
