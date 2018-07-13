@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">FuelLog</string>
     <string name="action_settings">Settings</string>
+
+    <string name="AppTitle">Fuel Log</string>
+
 </resources>
