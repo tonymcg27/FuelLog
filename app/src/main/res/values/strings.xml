@@ -16,4 +16,8 @@
     <string name="strRate">Fuel Burn</string>
     <string name="hintRate">Measured Fuel burn rate</string>
 
+    <string name="strSave">Save</string>
+    <string name="strExit">Exit</string>
+    <string name="save">Save</string>
+
 </resources>
